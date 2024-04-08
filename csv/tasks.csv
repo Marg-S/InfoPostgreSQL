@@ -1,0 +1,6 @@
+Title,ParentTask,MaxXP
+A5_memory,CPP3_SmartCalc_v2.0,400
+CPP3_SmartCalc_v2.0,SQL3_RetailAnalytics_v1.0,600
+SQL3_RetailAnalytics_v1.0,C7_SmartCalc_v1.0,600
+C2_SimpleBashUtils,null,350
+C7_SmartCalc_v1.0,C2_SimpleBashUtils,500

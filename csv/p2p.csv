@@ -1,0 +1,17 @@
+Check,CheckingPeer,State,Time
+1,rdl,Start,09:00:00
+1,rdl,Success,09:30:00
+2,adr,Start,10:15:29
+2,adr,Success,10:36:58
+3,adr,Start,19:25:17
+3,adr,Failure,19:25:17
+4,buttery,Start,20:25:30
+4,buttery,Success,21:00:00
+5,rdl,Start,21:10:00
+5,rdl,Success,21:40:00
+6,buttery,Start,22:40:00
+6,buttery,Success,23:40:00
+7,buttery,Start,12:10:00
+8,maximilian,Start,22:40:00
+8,maximilian,Success,22:50:00
+9,maximilian,Start,22:58:00

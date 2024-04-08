@@ -1,0 +1,9 @@
+CheckingPeer,CheckedPeer,PointsAmount
+rdl,adr,1
+adr,rdl,1
+adr,buttery,1
+buttery,adr,2
+rdl,buttery,1
+buttery,rdl,1
+maximilian,buttery,1
+maximilian,Anna,1
